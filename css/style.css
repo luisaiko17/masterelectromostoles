@@ -1,0 +1,128 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #AED6F1;
+	margin: 40;
+	font-family: 'Century Gothic', sans-serif;
+}
+
+.cab {
+	width: 600px;
+	margin: 0 auto;
+	background: #5DADE2;
+	margin-top: 1%;
+	padding: 30px;
+	text-align: center;
+	border-radius: 5%;
+}
+
+.logo-img{
+		border-radius: 3%;
+}
+
+.cab h1 {
+	font-size: 40px;
+	letter-spacing: 4px;
+	font-weight: bold;
+	margin: 15px 0 5px;
+}
+
+.box {
+	
+	margin: 0 auto;
+	background: #5DADE2;
+	margin-top: 1%;
+	padding: 30px;
+	text-align: center;
+}
+
+.box h3 {
+	font-size: 30px;
+	letter-spacing: 2px;
+	font-weight: 150;
+	margin: 5px 0 10px;
+}
+
+.box p {
+	margin: 0 auto;
+	width: 600px;
+	font-size: 17px;
+}
+
+ul.navega li {
+	display: inline;
+	padding-right: 5em;	
+	background: #367CAB;
+	width: 15%;
+}
+
+
+
+.menu {
+	margin: 0 auto;
+	background: #5DADE2;
+	margin-top: 2%;
+	padding: 30px;
+	text-align: center;
+}
+
+.lCat, .conjuntoArt {
+	margin: 0 auto;
+	margin-top: 1%;
+	padding: 15px;
+	width: 80%;
+}
+
+.conjuntoArt {
+}
+
+.lArt {
+	margin: 0 auto;
+	margin-top: 1%;
+	padding: 15px;
+	text-align: left;
+}
+
+.lArt-tab td, tr {
+	width: 16%;
+}
+
+.lArt p{
+	text-align: center;
+}
+
+.lCat caption, .lArt caption, .conjuntoArt caption {
+	font-weight: bold;
+	font-size: 30px;
+	padding: 0.3em;
+}
+
+.lCat-tab {
+	width: 100%;
+}
+.lCat th,td {
+	width: 20%;
+	margin-top: 20px;
+	padding: 0.3em;
+	background-color: #5DADE2;
+}
+
+.lCat a:link, a:visited, a:active {
+	text-decoration: none;
+	color: black;
+}
+
+.precio {
+	color: white;
+	font-size: 50px;
+}
+
+.nombre{
+	font-size: 24px;
+	font-weight: 900;
+}
+
