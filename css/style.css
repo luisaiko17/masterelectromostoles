@@ -21,11 +21,13 @@ body {
 }
 
 .logo-img{
-		border-radius: 3%;
+	border-radius: 3%;
+	width: 300px;
+	height:""/;
 }
 
 .cab h1 {
-	font-size: 40px;
+	font-size: 30px;
 	letter-spacing: 4px;
 	font-weight: bold;
 	margin: 15px 0 5px;
@@ -55,17 +57,15 @@ body {
 
 ul.navega li {
 	display: inline;
-	padding-right: 5em;
+	padding-right: 5em;	
 	width: 15%;
 }
-
-
 
 .menu {
 	margin: 0 auto;
 	background: #5DADE2;
 	margin-top: 2%;
-	padding: 30px;
+	padding: 15px;
 	text-align: center;
 }
 
@@ -229,3 +229,5 @@ ul.navega li {
 			#slide-3:checked ~ .control-3 ~ .slide-indicador li:nth-child(3) .slide-circulo {
 				color: #428bca;
 			}
+
+			
